@@ -1,0 +1,10 @@
+# my-ghc-extension
+
+# This is a placeholder for your GitHub Copilot extension.
+# Add your extension code here.
+
+def activate():
+    print("My GHC Extension activated!")
+
+if __name__ == "__main__":
+    activate()
